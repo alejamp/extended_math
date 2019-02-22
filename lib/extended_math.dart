@@ -41,3 +41,7 @@ export 'src/general/elementary_algebra/base/equation_base.dart';
 export 'src/general/elementary_algebra/cubic_equation.dart';
 export 'src/general/elementary_algebra/exceptions/equation_exception.dart';
 export 'src/general/elementary_algebra/quadratic_equation.dart';
+
+export 'src/ransac/ransac-tools.dart';
+export 'src/ransac/ransac.dart';
+export 'src/ransac/RansacHomographyEstimator.dart';
