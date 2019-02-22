@@ -10,7 +10,7 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
-  meta: ^1.1.7
+  meta: ^1.1.6
   quiver: ^2.0.1
   data: ^0.0.6
 
